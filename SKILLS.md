@@ -36,10 +36,10 @@
 
 | Theory                         | OOP basics            | Abstractions         | Patterns                 |
 |--------------------------------|-----------------------|----------------------|--------------------------|
-| 🟦 Procedural programming      | 🟦 constructor        | ⬜ struct, record    | 🟦 Singleton             |
-| 🟦 Imperative programming      | 🟦 new                | ⬜ Mutable state     |                          |
+| 🟦 Procedural programming      | 🟩 constructor        | ⬜ struct, record    | 🟦 Singleton             |
+| 🟦 Imperative programming      | 🟩 new                | ⬜ Mutable state     |                          |
 | 🟦 Structured programming      | 🟦 Static method      | ⬜ Immutable state   |                          |
-| 🟦 Non-structured programming  | 🟦 Method             | ⬜ Enum              |                          |
+| 🟦 Non-structured programming  | 🟩 Method             | ⬜ Enum              |                          |
 | 🟦 Functional programming      | 🟦 Async method       | 🟦 Linked list       |                          |
 | 🟦 Prototype-based programming | 🟦 Getters, Setters   | 🟦 Doubly list       |                          |
 | 🟦 Object-oriented programming | 🟦 Public fields      | 🟦 Unrolled list     |                          |
@@ -61,7 +61,7 @@
 
 | Async contracts        | JavaScript & Node.js specific  | Theory              | Techniques               |
 |------------------------|--------------------------------|---------------------|--------------------------|
-| 🟦 Callback-last       | 🟦 Timers                      | 🟦 Event Loop       | ⬜ async.js library      |
+| 🟦 Callback-last       | 🟩 Timers                      | 🟩 Event Loop       | ⬜ async.js library      |
 | 🟦 Error-first         | 🟦 setImmediate                | 🟦 Async error      | ⬜ Async composition     |
 | 🟦 Promise             | 🟦 nextTick                    | 🟦 try..catch       | ⬜ Rx.js                 |
 | 🟦 Async function      | ⬜ AbortController             | 🟦 Non-blocking     | 🟦 Sequential async      |
