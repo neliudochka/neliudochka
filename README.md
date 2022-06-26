@@ -4,5 +4,5 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, C</code>
-<code>💬 telegram: [@neliudochka]</code>
+<code>💬 telegram: [@neliudochka]https://telegram.me/neliudochka</code>
 <code>📫 [gorbunova.milasha@gmail.com]</code>
