@@ -35,4 +35,4 @@
 | 🟩 package and import |                       | 🟩 infix              | 🟩 fun interface, SAM      | 🟩 Kotlin/JVM         |
 | ⬜️ annotations        |                       | 🟩 extensions          |🟩 generics: in, out, where| ⬜️ Kotlin/Native     |
 | ⬜️ reflaction         |                       | 🟩 operator overloading|🟩 inner                   | ⬜️Type-safe builders(DSL)|                
-| ⬜️ delagation         |                       | 🟩 overloading         |🟩 typealias               |                      |
+| 🟩 delagation         |                       | 🟩 overloading         |🟩 typealias               |                      |
