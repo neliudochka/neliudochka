@@ -1,7 +1,7 @@
 <code>🎓 Student: KPI</code>
 <code>🎪 Group: IM-12</code>
 <code>👷 Speciality: Software engineer</code>
-<code>💡 [Skills(JS)](SKILLS.md)</code>
+<code>💡 [Skills(JS)](SKILLS.md) [Skills(Kotlin)](SKILLS(kotlin).md)</code>
 <code>🧻 Current [project](PROJECT.md)</code><br>
 <code>🧑‍💻 Languages: Kotlin, JavaScript, C</code>
 <code>📢 Public [talks: 0](TALKS.md)</code>
